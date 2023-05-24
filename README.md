@@ -23,7 +23,7 @@ This is a guide on how to install and use the **wiki_movies** application.
 ## Usage
 - To run the app, use the following command:
 - flask run
-Visit http://127.0.0.1:5000 to see the app.
+- Visit http://127.0.0.1:5000 to see the app.
 
 ## Postman Detailed Documentation with Examples
 For detailed documentation and examples, please refer to the [Postman Documentation](https://documenter.getpostman.com/view/6777319/2s93m4ZPXY).
